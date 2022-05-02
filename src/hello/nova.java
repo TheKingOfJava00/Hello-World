@@ -7,7 +7,7 @@ public class nova {
 		
 		int a=3;
 		
-		int b=7;
+		int b=123;
 		
 		int c1=a+b;
 		
