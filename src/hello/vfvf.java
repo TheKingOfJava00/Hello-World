@@ -12,7 +12,7 @@ public class vfvf {
 		  }    
 		  System.out.println("Factorial of "+number+" is: "+fact); 
 		  
-		  System.out.println("bfgfbgfbgf"+number+" is: "+fact);
+		  System.out.println("Antonije Kralj "+number+" is: "+fact);
 		  
 		  
 		  
