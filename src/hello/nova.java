@@ -5,11 +5,11 @@ public class nova {
 	public static void main(String[] args) {
 		
 		
-		int a=5;
+		int a=3;
 		
 		int b=7;
 		
-		int c=a+b;
+		int c1=a+b;
 		
 		System.out.println("Hello");
 
